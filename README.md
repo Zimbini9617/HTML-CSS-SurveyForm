@@ -8,7 +8,7 @@ Form to do survey
 
 ## Live View
 
-[Survey-Form]
+[Survey-Form](https://incomparable-cucurucho-14276a.netlify.app/)
 
 ## Built With
 
